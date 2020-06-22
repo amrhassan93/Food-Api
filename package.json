@@ -1,0 +1,22 @@
+{
+  "name": "full-project",
+  "version": "1.0.0",
+  "description": "This is My first Full front End Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "live":"live-server"
+  },
+  "keywords": [
+    "JS",
+    "Full-Project"
+  ],
+  "author": "Amr Hassan",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
